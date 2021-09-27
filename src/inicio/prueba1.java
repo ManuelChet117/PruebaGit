@@ -1,14 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package inicio;
 
-/**
- *
- * @author Manucho
- */
+
 public class prueba1 {
+    //HOLAAAA
+    ///siuuuu
+    public static void main(String[] args) {
+     
+        int siu; 
+        int piu;
+     
+        System.out.println("Siuuuuuuuuuuuuuuuuu");
+        
+        
+    }
     
 }
